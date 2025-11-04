@@ -29,10 +29,6 @@ matplotlib
 scipy
 🚀 Installation
 
-Clone this repository:
-
-git clone https://github.com/yourusername/virtual-physics-lab.git
-cd virtual-physics-lab
 
 Install required dependencies:
 
